@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css"> 
+    <title>
+      Lily's Cupcake
+      </title>
+    </head>
+
+<body>
+<div id="page-wrapper">
+
+<header id="header">
+
+<nav id="nav-bar">
+  <ul>
+    <li>
+      <a class="nav-link" href="#footer1">
+        Menu
+      </a>
+    </li>
+    <li>
+      <a class="nav-link" href="#footer1">Catering</a>
+      </li>
+    <li>
+      <a class="nav-link" href="#footer1">Contact us</a>
+      </li>
+    </ul>
+  </nav>
+<div class="logo">
+<img id="header-img" src="https://cdn-icons-png.flaticon.com/512/619/619483.png" alt="Cupcake logo" height=50 px>
+  </div>
+<h2>Lily's Cupcake- The Best in Town! </h2>
+
+</header>
+
+<div class="container"></div>
+
+<div class="submit">
+<h3>Traditional Home-made Cupcakes</h3>
+
+<form id="form" action="https://www.freecodecamp.com/email-submit">
+<p>For more info or questions, please enter your email address:
+  </p>
+
+  <input name="email" id="email" type="email" placeholder="Email" required>
+
+  <input id="submit" type="submit" value="Submit" class="btn">
+  </form>
+</div>
+
+<img src="https://cdn.cupcakeproject.com/wp-content/uploads/2011/03/Shirley-Temple-Cupcakes-21-1.jpg" alt="Cupcakes" height=500px>
+
+<picture>
+  <img src="https://cdn.cupcakeproject.com/wp-content/uploads/2011/03/Shirley-Temple-Cupcakes-21-1.jpg" alt="Flowers" style="width:500px;">
+</picture>
+
+<div class="container">
+  <section id="demo">
+    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/YsxtAMlWfj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+  </section>
+
+<footer id="footer1">
+  <ul>
+  <li><a href="#footer1">
+    Source</a></li>
+  <li><a href="#footer1">
+    Terms</a></li>
+  <li><a href="#footer1">
+    Contact us</a></li>
+    </ul>
+
+<span>Copyright 2022, Original Lily's Cupcake</span>
+
+</footer>
+
+</div>
+</body>
+  </html>
